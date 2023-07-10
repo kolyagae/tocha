@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "k.e.l@tut.by",
+      "password": "$2a$10$06IXZrxOKIHXz2qJTBMhpu.l7CvopgfvpCPaHzGVK6uGBGsCAY8ce",
+      "tel": "+7123-123-12-12",
+      "id": 1
+    },
+    {
+      "email": "mellinda077@mail.ru",
+      "password": "$2a$10$pQ9Jw21vfKprVAaJGxXO2.bqng3nlPXupc3vLasVApKW4.SFzl522",
+      "id": 2
+    },
+    {
+      "email": "k.e.l@tut.bys",
+      "password": "$2a$10$VXEoH1s0DuGVbgvYqh77de2AgPICr8upK9Bqyn2YvGOWFcyqibAhC",
+      "tel": "+7123-123-12-12",
+      "id": 3
+    },
+    {
+      "email": "mellinda07@mail.ru",
+      "password": "$2a$10$MDTURel/6b3jjXKNcufMhe9z3F64RCPza4G4qLbBhtTwIhi.AWpaO",
+      "tel": "+7123-123-12-12",
+      "id": 4
+    },
+    {
+      "email": "k.e.l@tut.byss",
+      "password": "$2a$10$hcPEOTjAVfJPPu4rcZ1S6.gVZAlMDmdTsot9FXF2hOgIVVVBjgtwi",
+      "tel": "+7123-123-12-12",
+      "id": 5
+    }
+  ]
+}
